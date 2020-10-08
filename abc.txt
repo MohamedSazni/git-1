@@ -1,2 +1,3 @@
 hi dude
 coflict case
+change through feature c
